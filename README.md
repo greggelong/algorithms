@@ -7,6 +7,9 @@ queue in python and javascript
 
 generate binary numbers using queue and bfs
 
+![binaryTree](binaryTreeQueue.jpg)
+-----
+
 some links
 
 https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
