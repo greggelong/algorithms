@@ -7,6 +7,10 @@ using a binary tree to draw a recursive figure
 
 https://greggelong.github.io/algorithms/binaryQueueOneDTurtle
 
+using a binary tree to draw a tree
+
+https://greggelong.github.io/algorithms/binaryQueueTree
+
 ---------
 queue in python and javascript
 
