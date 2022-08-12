@@ -76,11 +76,11 @@ function turtle(inString, clr){
   y=y1
   for (let i =1; i<instr.length;i++){
     if(instr[i] == "1"){
-      // turn left
+      // turn right
       ang -= turn;
     }
     else if (instr[i] == "0"){
-      // turn right
+      // turn left
       ang += turn;   
     }
     // move forward/
