@@ -11,6 +11,10 @@ using a binary tree to draw a tree
 
 https://greggelong.github.io/algorithms/binaryQueueTree
 
+using a ternary tree to draw a recursive sierpinsky like figure
+
+https://greggelong.github.io/algorithms/ternaryQueueTurtleStamp
+
 ---------
 queue in python and javascript
 
