@@ -2,7 +2,7 @@ let x; // turtle x
 let binaryInstr;
 let seconds = 2;
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(800, 800);
   binaryInstr = genBinaryNoDq(20);
   print(binaryInstr);
   stroke(0,255,0);
@@ -61,18 +61,18 @@ function oneDTurtle(inString){
   noFill();
   let instr = inString.split(""); // split
   let x = width/2;
-  let sz = 300;
-  ellipse(x, 300, sz,sz);
+  let sz = 400;
+  ellipse(x, 400, sz,sz);
   for (let i =1; i<instr.length;i++){
     if(instr[i] == "1"){
       sz =sz/2
       x=x+sz
-      ellipse(x, 300, sz,sz);
+      ellipse(x, 400, sz,sz);
     }
     else if (instr[i] == "0"){
       sz =sz/2
       x=x-sz
-      ellipse(x, 300, sz,sz);
+      ellipse(x, 400, sz,sz);
     }
     
   }
